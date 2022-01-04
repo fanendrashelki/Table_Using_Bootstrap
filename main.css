@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+body{
+    background-color:white;
+    
+}
+table {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 15px 12px 20px 0px #888888;
+}
